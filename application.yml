@@ -1,0 +1,4 @@
+ivanApp:
+  config:
+    test: testVal
+    test2: testVal2
